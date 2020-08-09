@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John Doe</title>
-    <link>https://teamtact.github.io/hugobase/</link>
-    <description>Recent content on John Doe</description>
+    <title>Raja CSP</title>
+    <link>https://rajacsp.github.io/simpleml/</link>
+    <description>Recent content on Raja CSP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://teamtact.github.io/hugobase/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rajacsp.github.io/simpleml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>List Append Sample</title>
+      <link>https://rajacsp.github.io/simpleml/python/basics/list-append/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajacsp.github.io/simpleml/python/basics/list-append/</guid>
+      <description>lone = [2, 3]lone [2, 3]  lone.append(67)lone [2, 3, 67]  </description>
+    </item>
+    
+    <item>
       <title>Simple Python</title>
-      <link>https://teamtact.github.io/hugobase/python/basics/simple-python/</link>
+      <link>https://rajacsp.github.io/simpleml/python/basics/simple-python/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://teamtact.github.io/hugobase/python/basics/simple-python/</guid>
+      <guid>https://rajacsp.github.io/simpleml/python/basics/simple-python/</guid>
       <description>print(&amp;#39;Hello Toronto&amp;#39;) Hello Toronto  print(2) 2  </description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>https://teamtact.github.io/hugobase/python/basics/template/</link>
+      <link>https://rajacsp.github.io/simpleml/python/basics/template/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://teamtact.github.io/hugobase/python/basics/template/</guid>
+      <guid>https://rajacsp.github.io/simpleml/python/basics/template/</guid>
       <description>print(&amp;#39;Hello Toronto&amp;#39;) Hello Toronto  print(2) 2  </description>
     </item>
     

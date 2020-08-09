@@ -1,6 +1,6 @@
-baseURL = "https://teamtact.github.io/hugobase/"
+baseURL = "https://rajacsp.github.io/simpleml/"
 languageCode = "en-us"
-title = "John Doe"
+title = "Raja CSP"
 theme = "berbera"
 
 pygmentsCodeFences=true
